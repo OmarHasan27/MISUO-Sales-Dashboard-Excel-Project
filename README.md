@@ -59,7 +59,7 @@ It helps answer key questions like:
 
 ## 📷 Dashboard Preview
 
-![MISUO Sales Dashboard](/MISUO%20Sales%20Dashboard.PNG)
+![MISUO Sales Dashboard](/Dashboard_Capture.PNG)
 
 ---
 
