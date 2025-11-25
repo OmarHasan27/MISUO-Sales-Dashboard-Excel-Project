@@ -1,4 +1,4 @@
-# MISUO Sales & Delivery Dashboard (Excel Project)
+# MISUO Sales Dashboard (Excel Project)
 
 An interactive Excel dashboard built for MISUO Furniture to analyze **sales performance, delivery efficiency, customer behavior, and product trends** — all inside Microsoft Excel using **Power Query, Pivot Tables, and VBA**.
 
